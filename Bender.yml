@@ -1,0 +1,17 @@
+package:
+  name: sentinel_soc
+  authors:
+    - "Team No Risk V, NITK Surathkal"
+
+dependencies:
+  obi:
+    git: https://github.com/pulp-platform/obi.git
+    rev: main
+  apb:
+    git: https://github.com/pulp-platform/apb.git
+    rev: master
+  common_cells:
+    git: https://github.com/pulp-platform/common_cells.git
+    rev: master
+
+
