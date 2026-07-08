@@ -10,3 +10,6 @@
 [submodule "verilog/rtl/Interconnects/apb"]
 	path = verilog/rtl/Interconnects/apb
 	url = https://github.com/pulp-platform/apb.git
+[submodule "verilog/rtl/riscv-dbg"]
+	path = verilog/rtl/riscv-dbg
+	url = https://github.com/pulp-platform/riscv-dbg.git
